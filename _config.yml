@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Adam K. Leroy / Research Site"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Adam K. Leroy"
 description              : &description "personal description"
 url                      : https://akleroy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # &twitter
+#  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Columbus, Ohio, USA"
-  employer         : "Department of Astronomy, Ohio State University"
+  employer         : "Ohio State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : leroy dot 42 at osu dot edu
+  email            : leroy.42@osu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
