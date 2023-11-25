@@ -9,7 +9,7 @@ My research generates a steady stream of projects for graduate students, both fi
 
 If you are interested in working with the combination of JWST, ALMA, and optical data, check out <u><a href="https://www.phangs.org">PHANGS</a></u>. We build projects that tackle the structure and interrelationship of dust, ionized gas, molecular gas, stars, and star clusters. It's a fun, positive team and a great, cutting edge data set.
 
-If you are interested in working with the Very Large Array, preparing for the ngVLA, and tackling the detailed structure of atomic gas in galaxies, check our the Local Group L Band Survey. This is a place to dive in get your hands dirty with real radio work or to make connections to key work the Milky Way. HI is about to make a roaring comeback with new facilities coming online.
+If you are interested in working with the Very Large Array, preparing for the ngVLA, and tackling the detailed structure of atomic gas in galaxies, check our <u><a href="https://www.lglbs.org">Local Group L Band Survey</a></u>. This is a place to dive in get your hands dirty with real radio work or to make connections to key work the Milky Way. HI is about to make a roaring comeback with new facilities coming online.
 
 I'm also eager to work with students interested in pushing ALMA and JWST to dig into cluster formation or starburst galaxy physics, and to work with students interested in big data projects that extend beyond the optical.
 
